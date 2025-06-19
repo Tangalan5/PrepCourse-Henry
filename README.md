@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-repositorio de prueba del segundo modulo.
+mi primer repositorio, de la academia Soy Henry y es una locura.
